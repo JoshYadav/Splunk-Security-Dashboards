@@ -115,10 +115,6 @@ source="ssh_logs_new.json" host="LinuxServer" sourcetype="_json" event_type="Mul
 
 ---
 
-# SSH Security Dashboard
-
-![SSH Dashboard](images/ssh-dashboard.png)
-
 ---
 
 # 2️⃣ Web Traffic Monitoring Dashboard
@@ -206,10 +202,6 @@ source="apache_logs.json" host="webserver" sourcetype="_json" method=GET
 ```
 
 ---
-
-# Web Traffic Dashboard
-
-![Web Traffic Dashboard](images/web-dashboard.png)
 
 ---
 
